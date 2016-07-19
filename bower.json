@@ -1,0 +1,23 @@
+{
+    "name": "kt-angular-autofocus",
+    "homepage": "https://github.com/Aks1357/angular-auto-focus.git",
+    "authors": [
+        "Akshay Garg <akshay@karving.in>"
+    ],
+    "description": "Angular auto focus input element on page load",
+    "main": "app.js",
+    "keywords": [
+        "angular",
+        "auto",
+        "focus"
+    ],
+    "license": "MIT",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
