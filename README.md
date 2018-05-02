@@ -26,7 +26,7 @@ add kt-auto-focus="true" to the element to be focused
 
 ## Authors
 
-* **Akshay Garg** - *Website* - [http://www.karving.in/](http://www.karving.in/)
+* **Akshay Garg** - *Website* - [https://www.karving.in/](https://www.karving.in/)
 
 ## License
 
